@@ -1,27 +1,24 @@
 ## Awesome On-device Learning
-
+ 
 This is a curated list of research papers in `On-device learning`.
-
-
+ 
+ 
 ## Table of Contents
-* [Perception](#perception)
-* [Behavior Prediction](#behavior-prediction)
-* [Planning](#planning)
-* [Simulation](#simulation)
-* [General Machine Learning](#general-machine-learning)
-
+* [Test-Time Adaptation](#tta)
+ 
+ 
 ```
 format:
 - title [paper link, code link, summary link]
-  - authors (institution)
-  - publisher
-  - keywords
+ - authors (institution)
+ - publisher
+ - keywords
 ```
+ 
+### Test-Time Adaptation
+  
+- EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_EcoTTA_Memory-Efficient_Continual_Test-Time_Adaptation_via_Self-Distilled_Regularization_CVPR_2023_paper.pdf), [Summary]()]
+ - Junha Song, Jungsoo Lee, In So Kweon, Sungha Cho (Qualcomm AI Research, KAIST)
+ - CVPR2023
 
-### General Machine Learning
-
-- Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios [[Paper](https://arxiv.org/abs/2212.11419), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/1#issue-1762768235)]
-  - Yiren Lu, Justin Fu, George Tucker, Xinlei Pan, Eli Bronstein, Becca Roelofs, Benjamin Sapp, Brandyn White, Aleksandra Faust, Shimon Whiteson, Dragomir Anguelov, Sergey Levine (Waymo Research, Google Research)
-  - ML4AD@NeurIPS 2022
-  - Imitation Learning, Reinforcement Learning
-
+ 
