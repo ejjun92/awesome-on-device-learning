@@ -14,6 +14,10 @@ format:
  - publisher
  - keywords
 ```
+
+- NNTrainer: Light-Weight On-Device Training Framework [[Paper](https://arxiv.org/pdf/2206.04688), [Summary]()]
+  - Ji Joong Moon, Parichay Kapoor, Ji Hoon Lee, Myung Joo Ham, Hyun Suk Lee (Samsung Research, Samsung Electronics)
+  - arXiv2022
  
 ### Test-Time Adaptation
   
