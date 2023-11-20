@@ -14,6 +14,9 @@ format:
  - publisher
  - keywords
 ```
+- TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning [[Paper](https://arxiv.org/pdf/2007.11622), [Summary]()]
+  - Han Cai, Chuang Gan, Ligeng Zhu, Song Han (MIT, MIT-IBM Watson AI Lab)
+  - arXiv2021
 
 - NNTrainer: Light-Weight On-Device Training Framework [[Paper](https://arxiv.org/pdf/2206.04688), [Summary]()]
   - Ji Joong Moon, Parichay Kapoor, Ji Hoon Lee, Myung Joo Ham, Hyun Suk Lee (Samsung Research, Samsung Electronics)
